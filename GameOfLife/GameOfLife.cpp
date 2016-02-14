@@ -71,8 +71,6 @@ int main()
 	int todo[X][Y];
 	int backup[X][Y];
 	char alg;
-	char again;
-	char cont;
 
 	do
 	{
